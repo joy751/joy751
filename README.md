@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joy751(Khushi Ram B.K.)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python Django
+- 👀 I’m interested in Web Development,Ehical Hacking
+- 🌱 I’m currently learning Python Django,Front end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
